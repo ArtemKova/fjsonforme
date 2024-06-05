@@ -1,11 +1,26 @@
-{
-  "posts": [
+[
     {
       "id": 1,
-      "title": "hello"
+      "typeorder": "food"
+    },
+   {
+      "id": 2,
+      "typeorder": "clothes"
+    },
+    {
+      "id": 3,
+      "typeorder": "shoes"
+    },
+    {
+      "id": 4,
+      "typeorder": "gadjets"
+    },
+    {
+      "id": 5,
+      "typeorder": "electronics"
+    },
+    {
+      "id": 6,
+      "typeorder": "tools"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
