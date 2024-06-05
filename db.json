@@ -1,4 +1,5 @@
-[
+{
+  "posts":[
     {
       "id": 1,
       "typeorder": "food"
@@ -24,3 +25,7 @@
       "typeorder": "tools"
     }
   ]
+     "profile": {
+    "name": "typicode"
+  }
+}
